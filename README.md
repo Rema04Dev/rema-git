@@ -1,4 +1,4 @@
-# GIT & Github
+# GIT & Github Handbook
 
 ### `git add`
 
